@@ -16,7 +16,7 @@ function _debug($data){
     echo "</pre>";
 }
 
-// Functions with params. Last Updated by Horman (14/07/2021)
+// Functions with params. Last Updated by Horman (16/07/2021)
 
 $profile = $qiwi->getProfile();
 _debug($profile);
