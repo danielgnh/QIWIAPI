@@ -1,5 +1,7 @@
 <?php
 
+// https://yougame.biz/threads/215053/
+
 class Qiwi {
     private $_userPhone;
     private $_userToken;
