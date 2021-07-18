@@ -4,6 +4,22 @@ QIWI API 2021
 # DOCUMENTATION
 Official QIWI developer page: https://developer.qiwi.com/ru/qiwi-wallet-personal/#intro
 
+**Connection:**<br>
+``` require_once 'path to file Qiwi.php';```
+```
+$qiwiData = [
+    'phone' => 'qiwi phone number without +',
+    'token' => 'qiwi api token'
+];
+```
+```$qiwi = new Qiwi($qiwiData['phone'], $qiwiData['token'], false);```
+
+**Basic function:**<br>
+```
+$walletBalance = $qiwi->getBalance();
+var_dump($walletBalance);
+```
+
 # FUNCTIONS
 <b>getProfile()</b> - Information about account <br>
 <b>getIdentification()</b> - Information about account identification<br>
