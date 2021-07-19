@@ -1,6 +1,3 @@
-# QIWIAPI
-QIWI API 2021
-
 # DOCUMENTATION
 Official QIWI developer page: https://developer.qiwi.com/ru/qiwi-wallet-personal/#intro <br>
 Source: https://github.com/Shnapik/Qiwi-Api-Class-PHP/blob/master/src/Qiwi.php <br>
