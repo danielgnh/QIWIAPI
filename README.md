@@ -2,9 +2,9 @@
 QIWI API 2021
 
 # DOCUMENTATION
-Official QIWI developer page: https://developer.qiwi.com/ru/qiwi-wallet-personal/#intro
-Source: https://github.com/Shnapik/Qiwi-Api-Class-PHP/blob/master/src/Qiwi.php
-Official QIWI API page (without send...() functions): https://github.com/QIWI-API/bill-payments-php-sdk
+Official QIWI developer page: https://developer.qiwi.com/ru/qiwi-wallet-personal/#intro <br>
+Source: https://github.com/Shnapik/Qiwi-Api-Class-PHP/blob/master/src/Qiwi.php <br>
+Official QIWI API page (without send...() functions): https://github.com/QIWI-API/bill-payments-php-sdk <br>
 
 **Connection:**<br>
 ``` require_once 'path to file Qiwi.php';```
